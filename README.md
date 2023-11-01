@@ -1,6 +1,6 @@
 # COMING SOON
 # resumosLTI
-A "clone" of [Resumos LEIC-A](https://resumos.leic.pt/), [Resumos LEIC-A GitHub](https://github.com/leic-pt/resumos-leic)
+A "fan clone" of [Resumos LEIC-A](https://resumos.leic.pt/), [Resumos LEIC-A GitHub](https://github.com/leic-pt/resumos-leic).
 
 resumosLTI stores notes, past exams and much more for the LTI course @FCUL. 
   
